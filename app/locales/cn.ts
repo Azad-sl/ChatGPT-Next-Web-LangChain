@@ -168,7 +168,7 @@ const cn = {
       CheckUpdate: "检查更新",
       IsChecking: "正在检查更新...",
       FoundUpdate: (x: string) => `发现新版本：${x}`,
-      GoToUpdate: "前往更新",
+      GoToUpdate: "前往Github查看更新",
     },
     SendKey: "发送键",
     Theme: "主题",
@@ -274,7 +274,7 @@ const cn = {
     Access: {
       AccessCode: {
         Title: "访问密码",
-        SubTitle: "管理员已开启加密访问",
+        SubTitle: "加入Q群 340825795 获取访问码",
         Placeholder: "请输入访问密码",
       },
       CustomEndpoint: {
